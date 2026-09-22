@@ -1,8 +1,30 @@
 # Colin Vitols
 
-I build full-stack applications that turn data into useful dashboards, explainable models, and practical workflows. My projects span sustainable infrastructure, clinical trial simulations, and applied AI for cybersecurity.
+I build practical software for volunteer organizations, contract projects, and the people running day-to-day operations. My work includes animal-rescue dashboards, livestream tools, API integrations, and full-stack applications that make complex data easier to use.
 
-I enjoy connecting Python backends with React interfaces, then working through the details that make a prototype more useful: persistent data, clear visualizations, reliable APIs, and traceable decisions.
+I enjoy taking a real workflow—tracking foster placements, managing a live stream, or reviewing infrastructure decisions—and building tools around the people using it. That often means connecting existing systems, automating spreadsheet workflows, and creating clear interfaces that are straightforward to operate.
+
+## Volunteer & contract work
+
+### Animal rescue operations — volunteer work
+
+I'm developing a local operations dashboard for Louie's Legacy Animal Rescue, bringing Shelterluv inventory and Google Sheets adoption schedules into one view.
+
+- Organizes animal status, foster workload, placement gaps, and daily work queues.
+- Brings scheduled adoption information together with animal and adopter matching to support finalization workflows.
+- Includes filtering, CSV exports, and summary views that omit individual records and volunteer names.
+- Uses Python, browser-based interfaces, and read-only API integrations to support the rescue's existing systems.
+
+### Livestream tools & workflow automation — contract work
+
+I've built a suite of Google Sheets and Google Apps Script tools for managing live broadcasts, including team trackers, Pokémon chase boards, and scrolling tickers.
+
+- Connects editable spreadsheets to OBS browser overlays, logo boards, and live status displays.
+- Provides admin controls for updating boards, tracking eliminations, restoring entries, and changing display order.
+- Keeps a history of changes and uses caching and validation to support responsive updates during a stream.
+- Lets operators change ticker messages, styling, and board content through familiar spreadsheet and web interfaces.
+
+*Source repositories for this work are private; these summaries describe the projects without linking to their code.*
 
 ## Featured projects
 
@@ -34,16 +56,18 @@ My repository for University of Cincinnati's IT7075C coursework, with hands-on P
 | Area | Technologies |
 | --- | --- |
 | Backend | Python, FastAPI, REST APIs |
-| Frontend | JavaScript, TypeScript, React, Next.js, Vite, Tailwind CSS |
+| Frontend | JavaScript, TypeScript, HTML/CSS, React, Next.js, Vite, Tailwind CSS |
 | Data & persistence | PostgreSQL, SQLite, SQLAlchemy, Alembic, pandas |
 | Modeling & visualization | scikit-learn, Jupyter, Recharts |
+| Integrations & automation | Google Apps Script, Google Sheets, Shelterluv API, OAuth, OBS browser sources |
 | Development | Git, GitHub |
 
 ## What I'm focused on
 
-- Building applications that make complex data easier to understand and act on.
+- Building useful tools for volunteer organizations and contract clients.
+- Connecting APIs, spreadsheets, and dashboards to simplify everyday work.
 - Improving reliability through validation, testing, and clearer application behavior.
 - Exploring how AI can support explainable, useful cybersecurity workflows.
-- Learning through coursework, team projects, and hands-on development.
+- Learning through community work, coursework, team projects, and hands-on development.
 
 [Explore my repositories](https://github.com/vitolscolin?tab=repositories)
